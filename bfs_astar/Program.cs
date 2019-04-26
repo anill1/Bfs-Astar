@@ -14,7 +14,7 @@ namespace bfs_astar
         public static int closedListCounter = 0;
         public static int solutionCost = 0;
         public static string currentAlgorithm;
-        static readonly string file = @"C: \Users\anil\Desktop\hw01\input.txt";
+        static readonly string file = @"C: \Users\bfsastar\input.txt";
 
         static void Main(string[] args)
         {
